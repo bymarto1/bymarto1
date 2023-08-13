@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey 🤠
 
-<!--
-**bymarto1/bymarto1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Pau Martori, a highly ambitious, proactive, and efficient software engineer based in Barcelona, Spain. I blend my love for coding with passions for fashion, sports, and music, creating innovative solutions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduated from 'Universitat Politècnica de Catalunya (UPC)', Barcelona in 2023 with a BS in Computer Science, specializing in Software Engineering.
+- 💼 Freelancing since 2019, crafting scripts and bots for various websites globally.
+- ⚙️ Rapid learner of new languages and frameworks with a perfectionist approach to ensure excellence in every project.
+- 🛠️ Merging my skills with interests, from sneaker bots to blockchain contributions, I take on diverse challenges.
+
+## My Skills
+
+- **Languages:** Python, JavaScript (React, Next, Node, Express), SQL, C, C++, C#, Java, Solidity
+- **Technologies:** Web Scraping (Requests, BeautifulSoup, Selenium), Git
+
+
+
+## Let's Connect!
+- 🌐 [Visit my Portfolio](https://www.paumartori.com)
+- 📧 Email me at paumartori@gmail.com
