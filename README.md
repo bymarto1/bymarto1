@@ -17,5 +17,5 @@ Hi, I'm Pau Martori, a highly ambitious, proactive, and efficient software engin
 
 
 ## Let's Connect!
-- 🌐 [Visit my Portfolio](https://www.paumartori.com)
+- 🌐 [Visit my Portfolio]([https://www.paumartori.com](https://martori.dev)
 - 📧 Email me at paumartori@gmail.com
