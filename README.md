@@ -12,7 +12,7 @@ Hi, I'm Pau Martori, a highly ambitious, proactive, and efficient software engin
 ## My Skills
 
 - **Languages:** Python, JavaScript (React, Next, Node, Express), SQL, C, C++, C#, Java, Solidity
-- **Technologies:** Web Scraping (Requests, BeautifulSoup, Selenium), Git
+- **Technologies:** Web Scraping (Requests, BeautifulSoup, Selenium), Git, Docker
 
 
 
